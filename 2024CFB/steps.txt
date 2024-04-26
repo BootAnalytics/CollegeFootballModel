@@ -1,0 +1,5 @@
+Example:
+2023 Season:
+1. Run Preseason, using 2022 End of Season Data, outputs>2023 preseason data
+2. Run ELOCalc with 2023preseasondata as inputs and 2023 current season data.
+3. Run PowerRating using "2023endofseasonratings" (which are the "latest" ratings produced)
